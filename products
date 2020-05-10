@@ -3,19 +3,19 @@
     {
       "name": "PizzaHut",
       "address": "Pitampura",
-      "rating": 3.5,
+      "rating": 4.5,
       "id": "s34fdsd"
     },
 	{
-      "name": "PizzaHut",
-      "address": "Pitampura",
-      "rating": 3.5,
+      "name": "KFC",
+      "address": "Noida",
+      "rating": 4.2,
       "id": "sfgf34fdsd"
     },
 	{
-      "name": "PizzaHut",
-      "address": "Pitampura",
-      "rating": 3.5,
+      "name": "BurgerKing",
+      "address": "Rohini",
+      "rating": 4.7,
       "id": "s3ioi4fdsd"
     }
   ]

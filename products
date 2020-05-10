@@ -1,26 +1,22 @@
 {
-  "products": [
+  "restaurants": [
     {
-      "id": 1,
-      "name": "Student -1"
+      "name": "PizzaHut",
+      "address": "Pitampura",
+      "rating": 3.5,
+      "id": "s34fdsd"
     },
-     {
-      "id": 2,
-      "name": "Student -2"
+	{
+      "name": "PizzaHut",
+      "address": "Pitampura",
+      "rating": 3.5,
+      "id": "sfgf34fdsd"
     },
-     {
-      "id": 3,
-      "name": "Student -3"
-    },
-     {
-      "id": 4,
-      "name": "Student -4"
-    },
-     {
-      "id": 5,
-      "name": "Student -5"
-    },
-
-    
-  ] 
+	{
+      "name": "PizzaHut",
+      "address": "Pitampura",
+      "rating": 3.5,
+      "id": "s3ioi4fdsd"
+    }
+  ]
 }
